@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Chart and Graph/RealTimeEnergy/Stream Graph/StreamGraph.unity
+  isLoaded: 1
+  isActive: 1
